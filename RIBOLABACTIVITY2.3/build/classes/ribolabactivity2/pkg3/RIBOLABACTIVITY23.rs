@@ -1,0 +1,6 @@
+ribolabactivity2.pkg3.Main
+ribolabactivity2.pkg3.AdvancedTextEditor$OperationType
+ribolabactivity2.pkg3.AdvancedTextEditor$EditOperation
+ribolabactivity2.pkg3.PrintTextEditor
+ribolabactivity2.pkg3.AdvancedTextEditor
+ribolabactivity2.pkg3.TextEditor
